@@ -1,0 +1,45 @@
+-----AutoBackup made by Relentless_x-----
+
+#####Info#####
+
+#AutoBackup will backup a specified directory every x minuets (you specifiy the minuets)
+
+#I made this for the purpose of minecraft servers but it will backup ANY directory!
+
+#####Instructions for use#####
+
+#Start up the AutoBackup (On windows run "Run Autobackup (Windows)" 
+ on linux and mac run it how you would usually run a jar 
+ (sorry i cannot be of more assistance!).
+
+#AutoBackup Will then create is save directory.
+
+#It will then ask you for the path of the directory you want to bakup
+ for example C:\Users\Jamal\Desktop\Server\world  Type (or paste) it in
+ and hit Enter.
+
+#Next it will ask you for the directory name you want to be backed up
+ this should be the last part of the directory path so for the example
+ above it would be world.
+
+#Next it will ask you the delay you want between backups, this is in
+ intervals of one minuet so one hour you would type in 60 two hours
+ you would type in 120 ect. then hit enter.
+
+#AutoBackup has now started and will back up the selected directory at
+ every x minuets (x beign the specified number).
+
+#To stop AutoBackup just click X it won't harm anything (but if you X
+ it whilst its backing up the backup will not be complete)
+
+#####Other Info#####
+
+#If people use this and find it useful i may add a gui to it to make it more user friendly!
+
+#I reccomend you dont chose to backup at short intervals, you could find yourself speedily 
+ running out of hard drive space
+
+#Thanks for using AutoBackup! If you wish to donate please go here: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5AM5S3X8H8UF4&lc=GB&item_name=MineLore&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+
+tinyurl.com/mineloredonate
+
